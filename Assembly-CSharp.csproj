@@ -51,15 +51,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
-     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
-     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\CameraSwitch.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\LevelReset.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
-     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
-     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
+     <Compile Include="Assets\ParticleLight\Scripts\UVScroller_C.cs" />
+     <Compile Include="Assets\Scripts\AttatchPlayer.cs" />
+     <Compile Include="Assets\Scripts\BoostBehavior.cs" />
+     <Compile Include="Assets\Scripts\EnvironmentCube.cs" />
+     <Compile Include="Assets\Scripts\HazardCube.cs" />
+     <Compile Include="Assets\Scripts\MakeMouseVisible.cs" />
+     <Compile Include="Assets\Scripts\PortalScript.cs" />
+     <Compile Include="Assets\Scripts\PrintTime.cs" />
+     <Compile Include="Assets\Scripts\ProjectileScript.cs" />
+     <Compile Include="Assets\Scripts\ResetPlayer.cs" />
+     <Compile Include="Assets\Scripts\RigidbodyScript.cs" />
+     <Compile Include="Assets\Scripts\SceneManagerScript.cs" />
+     <Compile Include="Assets\Scripts\SpawnBlock.cs" />
+     <Compile Include="Assets\Scripts\TimerScript.cs" />
+     <Compile Include="Assets\Scripts\TriggerScript.cs" />
+     <Compile Include="Assets\Scripts\TurretScript.cs" />
+     <Compile Include="Assets\Scripts\TutorialPrompt.cs" />
+     <None Include="Assets\Scripts\placeholder.txt" />
+     <None Include="Assets\ParticleLight\Shader\AdditiveMask.shader" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>C:/Program Files/Unity/2017.4.36f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>
