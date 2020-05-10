@@ -1,1 +1,5 @@
-Isaac Taylor - I worked on level 2; all the assets, animations and scripts invovled were created by me. The Portal prefab used in both levels was also my work. I also made the menus.
+DISCLAIMER: This game makes use of the Rigidbody First Person Controller asset from the Unity Standard Assets package. This was not created by us, nor its accompanying script. The skybox and "booster platform" texture were downloaded from the asset store as well. There may also be some additional store assets/scripts in the project files: these were unused but we did not delete them in case any of them were connected to the rigidbody controller scripts. 
+
+Tom Nicholson - I worked on and built level 1.  All of the assets in the level were created by me (except for Isaac's portal prefab). All original scripts used in this level are mine as well. I was also in charge of finding and adding sounds/music, and towards the end of the project I added some polish in both levels and in the menus.
+
+Isaac Taylor - I worked on and built level 2; all the assets, animations and scripts involved in the level were created by me (except for Tom's floating block prefab). The Portal prefab used in both levels was also my work. I also made the menus.
