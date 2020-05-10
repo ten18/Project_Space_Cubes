@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Trigger
+  - Boundary
+  - Checkpoint1
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
